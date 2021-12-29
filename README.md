@@ -28,9 +28,9 @@ To answer these questions, I used property appraisal and assessment data provide
 
 ### TOOLS USED
 - 'Microsoft Access' - for exporting data
-- 
+
 - `Microsoft Excel` - for viewing data 
-- 
+
 - `Python/Pandas` - for exploration, aggregation and visualization of the data
 
 - `Microsoft's Power BI` - for creating interactive dashboard
