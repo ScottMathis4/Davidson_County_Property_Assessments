@@ -27,13 +27,10 @@ To answer these questions, I used property appraisal and assessment data provide
 
 
 ### TOOLS USED
-- 'Microsoft Access' - for exporting data
-
-- `Microsoft Excel` - for viewing data 
-
-- `Python/Pandas` - for exploration, aggregation and visualization of the data
-
-- `Microsoft's Power BI` - for creating interactive dashboard
-
-
+- `Jupyter Notebook`, version 6.3.0 - platform to use Python code
+- `Python/Pandas`, version 3.8.5 - for exploration, aggregation and visualization of the data
+- `MS Power BI`, versoin 2.100.785.0 - for creating interactive dashboard
+- `MS Access`, Microsoft 365 - for exporting data
+- `MS Excel`, Microsoft 365 - for viewing data 
+      
 ### SOURCES
