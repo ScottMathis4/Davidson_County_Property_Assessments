@@ -1,6 +1,6 @@
-# Davidson County Real Property Appraisals
+# Davidson County Real Property Assessments
 
-## Analysis of Davidson County Real Property Appraisals
+## Analysis of Davidson County Real Property Assessments
 
 ## TABLE OF CONTENTS
 * [Motivation](#motivation)
